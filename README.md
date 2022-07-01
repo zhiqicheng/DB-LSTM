@@ -1,5 +1,5 @@
 # DB-LSTM: Densely-Connected Bi-directional LSTM for Human Action Recognition
-Code for paper "[DB-LSTM: Densely-Connected Bi-directional LSTM for Human Action Recognition](https://www.sciencedirect.com/science/article/pii/S0925231220317859)"
+partial code for paper "[DB-LSTM: Densely-Connected Bi-directional LSTM for Human Action Recognition](https://www.sciencedirect.com/science/article/pii/S0925231220317859)"
 
 ## Requirements
 * python3 
